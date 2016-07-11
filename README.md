@@ -1,5 +1,5 @@
-#MilSpecWeb Software
-###MilSpecWeb Website 
+#MilSpec Software
+###Repository
 #.1 JSP
 #.2 HTML
 #.3 JavaScript/JQuery
